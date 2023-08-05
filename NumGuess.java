@@ -9,7 +9,7 @@ import java.util.Scanner;
  *it is an a number guessing game 
  *
  */
-public class NumGuess  {
+public class NumGuess extends GuessNum {
 
 	
 	public static void main(String[] args) {
